@@ -298,7 +298,7 @@ namespace Summative._._1
             g.DrawLine(SecondPen, 355, 271, 189, 309);
             g.DrawLine(SecondPen, 189, 309, 111, 351);
             g.DrawLine(SecondPen, 111, 351, 170, 257);
-            g.DrawLine(SecondPen, 170, 257, 292, 208);
+            g.DrawLine(SecondPen, 170, 257, 292, 208);  
 
             g.DrawString(" Leo is one of the constellations of the\n" +
                 " zodiac, lying between Cancer the crab to \n" +
