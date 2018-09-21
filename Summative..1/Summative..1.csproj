@@ -82,5 +82,8 @@
   <ItemGroup>
     <None Include="Resources\lion-king-wd070.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\159376__greenhourglass__boing1.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -61,6 +61,15 @@ namespace Summative._1.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _159376__greenhourglass__boing1 {
+            get {
+                return ResourceManager.GetStream("_159376__greenhourglass__boing1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap lion_king_wd070 {
