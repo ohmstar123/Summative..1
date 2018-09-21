@@ -307,7 +307,7 @@ namespace Summative._._1
                 " the ancient Greeks represented the\n" +
                 " Nemean Lion killed by the mythical \n" +
                 " Greek hero Heracles as one of his\n" +
-                " twelve labors", parafont, parabrush, 370, 100);
+                " twelve labors", parafont, parabrush, 370, 100);  
         }
     }
 }
