@@ -308,20 +308,6 @@ namespace Summative._._1
                 " Nemean Lion killed by the mythical \n" +
                 " Greek hero Heracles as one of his\n" +
                 " twelve labors", parafont, parabrush, 370, 100);
-
-
-
-
-
-
-
-
-
         }
-
-
-
-
-
     }
 }
